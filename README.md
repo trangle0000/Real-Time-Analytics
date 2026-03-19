@@ -1,9 +1,9 @@
 ﻿# Real-Time Analytics - Course Repository
-## Setup completed
+## Environment Setup Verified
 
-- Python 3.10 installed
-- Docker + WSL configured
-- JupyterLab running
-- Kafka running and verified
+- Python running inside Docker
+- JupyterLab working
+- Kafka tested
+- Environment ready for labs
 
-Environment successfully set up.
+Notebook: test1.ipynb
